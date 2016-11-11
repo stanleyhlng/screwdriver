@@ -29,25 +29,8 @@ auth:
     https: false
     # Whitelist of users able to authenticate against the system
     # if empty, it allows everyone
-    # @TODO remove this in the future
-    whitelist:
-        - FenrirUnbound
-        - Filbird
-        - cynthiax
-        - d2lam
-        - dvdizon
-        - jer
-        - minz1027
-        - nicolaifsf
-        - nkatzman
-        - outofjungle
-        - petey
-        - sd-buildbot
-        - shruthi-venkateswaran
-        - stjohnjohnson
-        - tkyi
-        - tonytamsf
-        - jpcollins
+    # whitelist:
+    #     - FenrirUnbound
     admins:
         - FenrirUnbound
         - cynthiax
